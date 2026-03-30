@@ -38,6 +38,7 @@ dependencies:
   bloc: ^9.2.0
   meta: ^1.17.0
   dio: ^5.9.2
+  local_auth: ^3.0.1
 
 dev_dependencies:
   flutter_test:
