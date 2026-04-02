@@ -68,5 +68,16 @@
 	</array>
 	<key>NSFaceIDUsageDescription</key>
 <string>We need to access your Face ID to authenticate you.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+<string>We need to access your Face ID to authenticate you.</string>
+	<key>NSCameraUsageDescription</key>
+<string>We need to access your Face ID to authenticate you.</string>
+	<key>NSMicrophoneUsageDescription</key>
+<string>We need to access your Face ID to authenticate you.</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>This app needs access to location when open.</string>
+<key>io.flutter.embedded_views_preview</key>
+<true/>
+
 </dict>
 </plist>
